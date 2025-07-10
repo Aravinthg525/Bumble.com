@@ -3,7 +3,7 @@ import "./App.css";
 import PropTypes from "prop-types";
 
 /*Images*/ 
-import cloudIcon from"./assets/cloud.png";
+
 import drizzleIcon from"./assets/drizzle.png";
 import humidityIcon from"./assets/humidity.png";
 import rainIcon from"./assets/rain.png";
