@@ -38,6 +38,7 @@ return (
   <img src={humidityIcon} alt="humidity"className="icon"/>
   <div className="data">
     <div className="humidity-percentage">{humidity}%</div>
+    
     <div className="text">Humidity</div>
   </div>
 </div>
